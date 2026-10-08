@@ -9,6 +9,8 @@ Multimodal AI Hackathon 2026 (IIT Mandi), **Track A: Cardiovascular Risk Visuali
 
 ![Risk map](docs/screenshots/map.png)
 
+Project documentation (4 pages): [docs/CoroLens_Report.pdf](docs/CoroLens_Report.pdf) (source: [docs/REPORT.md](docs/REPORT.md)).
+
 ## What it does
 
 1. **Predicts** overall CAD and stenosis (50% or more narrowing) of the **LAD, LCX and RCA** from 55 clinical, ECG, lab and echo features
