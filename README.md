@@ -111,8 +111,8 @@ note:    web/app.js -> /api/intake (api/intake.js, Vercel function) -> web/intak
 ## AI assistance disclosure (required by the hackathon rules)
 
 This project was built with an AI coding assistant (Grok Bot) under my direction. The assistant drafted the code in
-`corolens/`, `web/`, `api/`, `scripts/` and `tests/`, plus this README and the report. I reviewed the code, ran the pipeline and tests, and am responsible
-for everything submitted. The TypeSafe Jev model is used at runtime for note intake only; it does not make the risk predictions.
+`corolens/`, `web/`, `api/`, `scripts/` and `tests/`, plus this README and the report. The training run, tests and intake evaluation
+logs are committed in `results/`. I am responsible for everything submitted and can explain how the code works. The TypeSafe Jev model is used at runtime for note intake only; it does not make the risk predictions.
 
 ## License
 
